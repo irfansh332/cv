@@ -1,0 +1,41 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    /*background-color: white;*/
+    
+    /*
+    border-style: none;
+    border-top: 5px dotted rgb(187, 181, 181);*/
+    border-style: dotted none none;
+    border-color: #bec3c3;
+    border-width: 10px;
+    height: 0px; /* We can delete this also*/
+    width: 10%;
+    
+}
+
+img {
+    height: 300px;
+}
+
+h1{
+    color: #10A19D;
+}
+
+h2{
+    color: #10A19D;
+}
+
+h3{
+    color: #10A19D;
+}
+
+h4{
+    color: #10A19D;
+}
+
+strong {
+    color: #0f85f4;
+}
