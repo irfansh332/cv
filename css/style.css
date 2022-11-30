@@ -1,3 +1,4 @@
+/*********** Tag Selector ****************/
 body {
     background-color: #eaf6f6;
 }
@@ -38,4 +39,22 @@ h4{
 
 strong {
     color: #0f85f4;
+}
+
+h1:hover {
+    background-color: gold;
+}
+
+/*********** Class Selector ****************/
+.images {
+    height: 300px;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/*********** ID Selector ****************/
+#name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
